@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mofagaa.github.io</id>
     <title>魔法咖 v2ray clash 科学上网 免费节点分享</title>
-    <updated>2022-01-03T13:28:58.281Z</updated>
+    <updated>2022-01-04T12:22:39.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mofagaa.github.io"/>
     <link rel="self" href="https://mofagaa.github.io/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://mofagaa.github.io/images/avatar.png</logo>
     <icon>https://mofagaa.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 魔法咖 v2ray clash 科学上网 免费节点分享</rights>
+    <entry>
+        <title type="html"><![CDATA[2022年1月4日免费订阅地址]]></title>
+        <id>https://mofagaa.github.io/post/2022-nian-1-yue-4-ri-mian-fei-ding-yue-di-zhi/</id>
+        <link href="https://mofagaa.github.io/post/2022-nian-1-yue-4-ri-mian-fei-ding-yue-di-zhi/">
+        </link>
+        <updated>2022-01-04T12:21:33.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p><font color="#27ae60"><b>免费节点来源于互联网，不保证质量，无任何客服支持。遇到不能用的，请自行更换。节点信息不定时更新，请 Ctrl+D 收藏到浏览器收藏夹</b></font></p>
+</blockquote>
+<h3 id="v2ray订阅">V2ray订阅：</h3>
+<p><code>https://duan.xiaomeng.cf/kHNcY6</code></p>
+<p><strong><font color="#FF6274">Clash用户需自行转换订阅：</font></strong><a href="https://sub.v1.mk/" title="点我跳转">点我跳转</a></p>
+<hr>
+<p><strong>免费节点适合我吗？</strong></p>
+<p>偶尔：上网查资料访问文字内容站点免费节点勉强应对。<br>
+经常：图片视频观看等对网速带宽有要求最好购买机场服务。<br>
+刚需：有重要的个人账户和业务，请自建节点并以机场作为备用。<br>
+PS：个人不建议长期使用免费节点，哪怕本身提供此服务。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022年1月3日免费订阅地址]]></title>
         <id>https://mofagaa.github.io/post/2022-nian-1-yue-3-ri-mian-fei-ding-yue-di-zhi/</id>
