@@ -15,10 +15,12 @@
 
 .icon-telegram:before {
   content: "\e60c";
+  font-size: 19px;
   color: #1296db
 }
 
 .icon-QQ:before {
   content: "\e667";
+  font-size: 19px;
   color: #10a4ff
 }
