@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 3204373 */
-  src: url('//at.alicdn.com/t/font_3204373_tek6yjpgval.woff2?t=1645755740310') format('woff2'),
-       url('//at.alicdn.com/t/font_3204373_tek6yjpgval.woff?t=1645755740310') format('woff'),
-       url('//at.alicdn.com/t/font_3204373_tek6yjpgval.ttf?t=1645755740310') format('truetype');
+  src: url('//at.alicdn.com/t/font_3204373_nhw4iz5mgfp.woff2?t=1645757539771') format('woff2'),
+       url('//at.alicdn.com/t/font_3204373_nhw4iz5mgfp.woff?t=1645757539771') format('woff'),
+       url('//at.alicdn.com/t/font_3204373_nhw4iz5mgfp.ttf?t=1645757539771') format('truetype');
 }
 
 .iconfont {
@@ -13,9 +13,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-QQ:before {
-  content: "\e667";
-  font-size: 19px
-  color: rog(16, 164, 255) ;
+.icon-telegram:before {
+  content: "\e60c";
+  color: #1296db
 }
 
+.icon-QQ:before {
+  content: "\e667";
+  color: #10a4ff
+}
