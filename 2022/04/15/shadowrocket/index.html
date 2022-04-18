@@ -198,17 +198,17 @@ window.addEventListener('load',preloader.endLoading())</script><div class="js-pj
     const valine = new Valine(Object.assign({
       el: '#vcomment',
       appId: 'yOVyFRwY6XecawGCy5MePin9-MdYXbMMI',
-      appKey: 'lsVsl5ytTJq12xtzH0uzn3Sg',
+      appKey: 'lsVsl5ytTJq12xtzH0uzn3SglsVsl5ytTJq12xtzH0uzn3Sg',
       avatar: 'monsterid',
       serverURLs: '',
       emojiMaps: "",
       path: window.location.pathname,
-      visitor: 
-    }, ))
+      visitor: false
+    }, null))
   }
 
   if (typeof Valine === 'function') initValine() 
-  else getScript('https://cdn.jsdelivr.net/gh/HCLonely/Valine@latest/dist/Valine.min.js').then(initValine)
+  else getScript('https://cdn.jsdelivr.net/npm/valine/dist/Valine.min.js').then(initValine)
 }
 
 if ('Valine' === 'Valine' || !false) {
