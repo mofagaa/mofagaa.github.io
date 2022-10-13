@@ -4,43 +4,7 @@
   <url>
     <loc>https://mofa.ga/2022/02/01/ji-chang-tui-jian-chang-qi-geng-xin/</loc>
     
-    <lastmod>2022-10-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://mofa.ga/2022/01/06/chao-xiang-xi-de-fan-qiang-ke-pu-jiao-cheng/</loc>
-    
-    <lastmod>2022-09-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://mofa.ga/2022/09/11/getafreenode/</loc>
-    
-    <lastmod>2022-09-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://mofa.ga/2022/04/15/shadowrocket/</loc>
-    
-    <lastmod>2022-09-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://mofa.ga/2022/09/10/zhenye/</loc>
-    
-    <lastmod>2022-09-10</lastmod>
+    <lastmod>2022-10-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +13,25 @@
   <url>
     <loc>https://mofa.ga/2022/01/19/win-mac-ios-android-yi-jian-fan-qiang/</loc>
     
-    <lastmod>2022-07-17</lastmod>
+    <lastmod>2022-10-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mofa.ga/2022/09/11/getafreenode/</loc>
+    
+    <lastmod>2022-10-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mofa.ga/2022/01/06/chao-xiang-xi-de-fan-qiang-ke-pu-jiao-cheng/</loc>
+    
+    <lastmod>2022-10-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,7 +40,7 @@
   <url>
     <loc>https://mofa.ga/2022/01/06/dai-li-gong-ju-ke-hu-duan/</loc>
     
-    <lastmod>2022-03-25</lastmod>
+    <lastmod>2022-10-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,7 +49,16 @@
   <url>
     <loc>https://mofa.ga/2022/01/04/ji-chang-tao-can-gou-mai-yuan-ze/</loc>
     
-    <lastmod>2022-03-25</lastmod>
+    <lastmod>2022-10-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mofa.ga/2022/04/15/shadowrocket/</loc>
+    
+    <lastmod>2022-10-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -103,7 +94,7 @@
 
   <url>
     <loc>https://mofa.ga/</loc>
-    <lastmod>2022-10-12</lastmod>
+    <lastmod>2022-10-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -111,7 +102,7 @@
   
   <url>
     <loc>https://mofa.ga/tags/%E7%BF%BB%E5%A2%99/</loc>
-    <lastmod>2022-10-12</lastmod>
+    <lastmod>2022-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -120,7 +111,7 @@
   
   <url>
     <loc>https://mofa.ga/categories/%E7%BF%BB%E5%A2%99/</loc>
-    <lastmod>2022-10-12</lastmod>
+    <lastmod>2022-10-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
