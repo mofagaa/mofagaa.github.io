@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://mofa.cf/2022/01/06/chao-xiang-xi-de-fan-qiang-ke-pu-jiao-cheng/</loc>
+    
+    <lastmod>2023-08-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://mofa.cf/2022/04/15/shadowrocket/</loc>
+    
+    <lastmod>2023-08-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://mofa.cf/2022/02/01/ji-chang-tui-jian-chang-qi-geng-xin/</loc>
     
-    <lastmod>2023-08-03</lastmod>
+    <lastmod>2023-08-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -20,25 +38,7 @@
   </url>
   
   <url>
-    <loc>https://mofa.cf/2022/01/06/chao-xiang-xi-de-fan-qiang-ke-pu-jiao-cheng/</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://mofa.cf/2022/01/04/ji-chang-tao-can-gou-mai-yuan-ze/</loc>
-    
-    <lastmod>2023-06-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://mofa.cf/2022/04/15/shadowrocket/</loc>
     
     <lastmod>2023-06-15</lastmod>
     
@@ -85,7 +85,7 @@
 
   <url>
     <loc>https://mofa.cf/</loc>
-    <lastmod>2023-08-03</lastmod>
+    <lastmod>2023-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -93,7 +93,7 @@
   
   <url>
     <loc>https://mofa.cf/tags/%E7%BF%BB%E5%A2%99/</loc>
-    <lastmod>2023-08-03</lastmod>
+    <lastmod>2023-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -102,7 +102,7 @@
   
   <url>
     <loc>https://mofa.cf/categories/%E7%BF%BB%E5%A2%99/</loc>
-    <lastmod>2023-08-03</lastmod>
+    <lastmod>2023-08-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
